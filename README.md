@@ -37,3 +37,4 @@ De volgende punten zijn wenselijk om te kunnen doen binnen de applicatie te kunn
 - Piet die altijd de evenementen regelt zou graag willen zien wie op welke positie speelt
 - De leiding wil graag kunnen zien welke secties wanneer oefenen
 - De mensen van onderhoud zouden graag willen zien welk lid welk instrument in gebruik heeft
+- De leiding wil zien welke leraren welke sectie les kunnen geven
